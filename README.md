@@ -1,5 +1,6 @@
 # HomecomingMission
 
+![](assets/images/Banner.png)
 
 # Sample Video:
 https://drive.google.com/file/d/1rckTfyZdAZSWDtifVpfk9FEDmS0F_VGc/view?usp=sharing
@@ -14,7 +15,7 @@ RJ was an astronaut that was tasked to go outside the spaceship to conduct exami
 This game is about Thrill and survival. Finding a way to go back to the spaceship is hard and thrilling due to obstacles and pressure. Surviving the stage with less time will make you feel proud and chill.      	                                            	
 # Gameplay
 This game is about Thrill and survival. Finding a way to go back to the spaceship is hard and thrilling due to obstacles and pressure. Surviving the stage with less time will make you feel proud and chill.
-*     Goals: Go back to the spaceship.
+*     Goals: Survive and avoid the asteroids.
 *     User Skills: Dodge to the left and right.
 *     Power-ups (optional): Oxygen to sustain and Dash for speed up.
 *     Progression and Challenge – Dodge the asteroids and floating objects while getting those Oxygen and Dash and try to make it in less time.          	        	
@@ -27,24 +28,22 @@ Music and Sounds
 *     When the user gets power ups the music will change to a fast tune.                                            	
 # Technical Description      	                                                                         	
 The game will be Mobile Cross-platform: iOS, Android, Windows Phone. Follow with PC standalone version and Facebook Canvas.
-  *    Controls - Pressing arrow keys to go left, right, up and down.
+  *    Controls - Pressing arrow keys to go left, right.
   *     Fonts  
-1.    Star Jedi Outline
-2.    N-Gage
+  1.    Star Jedi Outline
+  2.    Minecraftia
   *     Audio / Music
-1.    Thrilling action music
-2.    Power up music effect
-3.    Failed music effect
+  1.    death
+  2.    gameMusic
+  3.    powerup
   *     Graphics
-1.	Characters
-  a.	Astronaut (idle, floating)
-2.	Blocks
-  a.	Asteroids
-  b.	Floating objects
-3.	Ambient (Background)
-  a.	Outer Space
-4.	Other
-  a.	Spaceship                         	
+  1.	Characters
+    a.	Astronaut (idle, floating)
+  2.	Blocks
+    a.	Asteroids
+  3.	Ambient (Background)
+    a.	Outer Space
+                         	
 # Demographics                                                                                       	
 Age: 12 to 50 , Sex: Everyone, Casual players mostly                                                                                        	
 # Platforms & Monetization                                                                                    	
