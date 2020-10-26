@@ -1,12 +1,12 @@
 # HomecomingMission
 
 
-Sample Video:
+# Sample Video:
 https://drive.google.com/file/d/1rckTfyZdAZSWDtifVpfk9FEDmS0F_VGc/view?usp=sharing
 
-#Project Description
+# Project Description
 This game design document describes the details for a 2D based adventure game with an original gaming concept. The gameplay of this game is like other mission games that have a certain goal to achieve.                                                 	
-#Characters
+# Characters
 Astronaut named RJ is the main character in this game. RJ is an adventurous astronaut and wants to go outside the spaceship to explore outer space. While going back to the spaceship, RJ needs to get oxygen to go back to the spaceship while avoiding those asteroids.                                                          
 #Story
 RJ was an astronaut that was tasked to go outside the spaceship to conduct examinations on the satellites and maintenance. While RJ was done with his task, and wanted to go back to the spaceship and an accident happened, his safety grip was detached from his belt that made him getting lost on track and got far away from his spaceship. Now he is trying to go back to the spaceship, while going back to the spaceship he must get those oxygen floating to survive while dodging the asteroids and other floating materials in outer space.                                                                                                                          
